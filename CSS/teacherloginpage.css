@@ -1,0 +1,28 @@
+body{
+font-family: sans-serif;
+}
+
+.core{
+  position: relative;
+  top: 200px;
+  left: 880px;
+}
+
+#signup:hover{
+  background-color: blue;
+  border-radius: 40px;
+  align: center;
+  color: white;
+  width: 210px;
+  height: 40px;
+  transition: 0.6s ease;
+}
+
+#login:hover{
+  background-color: blue;
+  border-radius: 40px;
+  color: white;
+  width: 210px;
+  height: 40px;
+  transition: 0.6s ease;
+}
